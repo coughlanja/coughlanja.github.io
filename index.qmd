@@ -1,19 +1,47 @@
 ---
-title: "About Me"
+title: "James Coughlan"
+image: img/profile.png
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/JamesACoughlan
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: envelope
+      text: Email
+      href: mailto:james.coughlan@manchester.ac.uk
 ---
 
-:::{#me}
+::: {#me}
+### About Me
 
-## Goals
+I am a health economist and dentist researching topics relating to health financing, health workforce and global health. I will begin my Wellcome Trust/NIHR School for Primary Care Research funded doctoral research fellowship in October 2024.
 
-## Education
+### Education
 
-## Experience
+-   **PhD in Primary Care and Health Services Research**\
+    *University of Manchester* (Incoming 2024)
 
+-   **MSc Economics of Public Policy**\
+    *Barcelona School of Economics* (2023-2024)
+
+-   **MSc Public Health (Health Economics)**\
+    *London School of Hygiene and Tropical Medicine* (2019-2020)
+
+-   **Bachelor of Dental Surgery**\
+    *Queen Mary, University of London* (2015-2021)
+
+### Experience
+
+-   **Pre-Doctoral Clinical Research Fellow**\
+    *University of Manchester* (2022-2024)
+
+-   **General Dental Practitioner**\
+    *National Health Service (NHS)* (2021-2024)
 :::
-
-Thanks for checking out my web site!
