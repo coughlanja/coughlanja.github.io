@@ -12,7 +12,7 @@ website:
       - posts.qmd
       - cv.qmd
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Unless explicitly stated, any opinions expressed here are not those of my employers, co-authors or collaborating organisations. Any errors, ommissions or oversights are mine alone."
     left: "&copy; Copyright 2024, James Coughlan"
 
 format:
