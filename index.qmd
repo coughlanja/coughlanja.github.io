@@ -5,7 +5,7 @@ about:
   id: me
   template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: 15em
   links:
     - icon: twitter
       text: Twitter
@@ -25,7 +25,7 @@ I am a health economist and dentist researching topics relating to health financ
 
 ### Education
 
--   **PhD in Primary Care and Health Services Research**\
+-   **PhD in Health Economics**\
     *University of Manchester* (Incoming 2024)
 
 -   **MSc Economics of Public Policy**\
