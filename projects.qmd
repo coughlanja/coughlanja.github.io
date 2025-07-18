@@ -2,9 +2,14 @@
 title: "Research"
 ---
 
+### 2025
+
+-   Zaheer K, Zerin T, **Coughlan J**, Saha S, Delgado-Angulo E, Kateeb E. Supervised toothbrushing and silver diamine fluoride application of Rohingya children in the refugee camp in Bangladesh. International Dental Journal. 2025 (Accepted)
+-   Zaheer K, Hossain JM, Debnath KC, **Coughlan J**. [Oral health of Rohingya refugees accessing emergency dental care in the refugee camp in Cox’s Bazar, Bangladesh](https://onlinelibrary.wiley.com/doi/10.1111/cdoe.13050). Community Dentistry and Oral Epidemiology. 2025
+
 ### 2024
 
--   Coughlan, James; Hewett, Timothy; Pla Farriol, Eduard. [The impact of Brexit on research and development](https://repositori.upf.edu/handle/10230/60933). Published Masters Thesis, UPF e-Repositori. 2024
+-   **Coughlan, James**; Hewett, Timothy; Pla Farriol, Eduard. [The impact of Brexit on research and development](https://repositori.upf.edu/handle/10230/60933). Published Masters Thesis, UPF e-Repositori. 2024
 
 ### 2023
 
@@ -30,12 +35,16 @@ title: "Research"
 
 -   **Coughlan J**, Thomson W, Sutton M. The association between dental expenditure and financial protection in the United Kingdom. 2024.
 
--   Zaheer K, **Coughlan J.** Utilisation of an emergency dental clinic by the Rohingya refugees in Ukihya, Bangladesh. 2024.
-
 ### Conference Contributions
+
+-   **Coughlan J**, Francetic I, Thompson W, Muirhead V, Sutton M. Forecasting Demand for Unplanned Dental Care: An Evaluation of Machine Learning Models. Oral Presentation at: British Society of Oral and Dental Research ECR Conference 2025; Cardiff, UK
 
 -   **Coughlan J**, Pold A, Gkekas A, Meheus F, Gierth J, Hoffbauer T, Varenne B, Listl S, Pattamatta M. Cost-effective interventions for oral health: A WHO-CHOICE Analysis for 62 countries. Oral Presentation at: University of Pennsylvania Global Oral Health Forum II 2024; Philadelphia, USA
 
 -   **Coughlan J**, Thompson W, Sutton M. The contribution of dental expenditure to poverty. Poster presented at: Summer Scientific Meeting of the British Association for the Study of Community Dentistry 2023; Cork, Ireland.
 
 -   **Coughlan J**, Hegenauer M, Volkmann Z. Embedding sustainability into oral health systems: a complex systems approach. Poster presented at: World Dental Federation (FDI) Sustainability in Dentistry Summit 2023; Online event.
+
+### Awards
+
+-   
