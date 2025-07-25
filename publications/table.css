@@ -1,0 +1,11 @@
+/*--------------------------------------------------
+  Widen the “date” column in table-style listings
+--------------------------------------------------*/
+/* target the TH and TD cells that Quarto marks with data-field="date" */
+th[data-field="date"],
+td[data-field="date"] {
+  /* choose a width that makes sense for your dates */
+  min-width: 8em;
+  /* allow it to grow if the table container is wider */
+  width: auto;
+}

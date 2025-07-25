@@ -1,50 +1,38 @@
 ---
 title: "James Coughlan"
-image: img/profile.png
+subtitle: "Health Economist and Dentist"
+image: img/JamesCoughlanHeadhsot.jpg
 about:
   id: me
   template: trestles
   image-shape: round
-  image-width: 15em
+  image-width: 13em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/JamesACoughlan
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/did:plc:ljuebiuea53vzbddki4i7lko
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/james-coughlan-894232162
+    - icon: orcid
+      text: "ORCID"
+      href: https://orcid.org/0000-0001-5322-7098
     - icon: github
       text: Github
       href: https://github.com/coughlanja
     - icon: envelope
       text: Email
       href: mailto:james.coughlan@manchester.ac.uk
+      
+page-layout: full
 ---
 
 ::: {#me}
 ### About Me
 
-I am a dentist and health economist researching topics relating to health financing, health workforce, dentistry and global health. I am currently undertaking [NIHR School for Primary Care Research](https://www.spcr.nihr.ac.uk/career-development/doctoral-training-programme-for-primary-care-clinicians) funded Doctoral Research Fellowship, investigating the effect of financial incentives on access and quality of NHS dental care in the UK.
+I am a health economist and dentist currently undertaking [NIHR School for Primary Care Research](https://www.spcr.nihr.ac.uk/career-development/doctoral-training-programme-for-primary-care-clinicians) funded Doctoral Research Fellowship at the University of Manchester.
 
-### Education
+My doctoral research examines the impact of financial incentives in NHS dentistry, both on the supply-side and demand-side. This includes studies investigating the impact of the NHS General Dental Services contract, dental charges for patients and the role of the private sector in healthcare systems.
 
--   **PhD in Health Economics**\
-    *University of Manchester* (2024-2027)
-
--   **MSc Economics of Public Policy**\
-    *Barcelona School of Economics* (2023-2024)
-
--   **MSc Public Health (Health Economics)**\
-    *London School of Hygiene and Tropical Medicine* (2019-2020)
-
--   **Bachelor of Dental Surgery**\
-    *Queen Mary, University of London* (2015-2021)
-
-### Experience
-
--   **Pre-Doctoral Clinical Research Fellow**\
-    *University of Manchester* (2022-2024)
-
--   **General Dental Practitioner**\
-    *National Health Service (NHS)* (2021-2024)
-
--   **President**\
-    *European Dental Students' Association (EDSA)* (2020-2021)
+More broadly, my research interests centre around health financing and policy, global oral health and causal econometrics. I am also developing blogs and tools on how to access dental data and analyse these in R/R Studio.
 :::

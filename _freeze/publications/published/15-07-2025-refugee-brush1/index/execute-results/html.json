@@ -1,0 +1,15 @@
+{
+  "hash": "1e16ffb6a5e65195cf8b9fbcf376260a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Supervised toothbrushing and silver diamine fluoride application of Rohingya children in the refugee camp in Bangladesh\"\ndescription: \"Forthcoming in: International Dental Journal\"\n\nauthor: \n  - Khaleda Zaheer\n  - Tahmina Zerin\n  - name: \"**James Coughlan**\"\n    orcid: https://orcid.org/0000-0001-5322-7098\n  - Shuvashis Saha\n  - Elsa Delgado-Angulo\n  - Elham Kateeb\ndate: 07-15-2025\nJournal: \"*International Dental Journal (Forthcoming)*\"\ncategories: [\"Refugee Oral Health\", \"Global Health\"]\nimage: pic.jpg\ndraft: false\nformat: \n  html: \n    page-layout: article\n    \nengine: knitr\n---\n\n\n\n*text*\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

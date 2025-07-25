@@ -9,17 +9,19 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - education.qmd
+      - text: "Research"
+        href: publications/index.qmd
       - posts.qmd
       - cv.qmd
   page-footer:
     right: "Unless explicitly stated, any opinions expressed here are not those of my employers, co-authors or collaborating organisations. Any errors, ommissions or oversights are mine alone."
-    left: "&copy; Copyright 2024, James Coughlan"
+    left: "&copy; Copyright 2025, James Coughlan"
 
 format:
   html:
     theme: 
-    - litera
+    - cosmo
     - styles.scss
     toc: false
 

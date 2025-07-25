@@ -1,0 +1,47 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Supervised toothbrushing and silver diamine fluoride application of Rohingya children in the refugee camp in Bangladesh\"\n",
+        "description: \"\"\n",
+        "\n",
+        "author: \n",
+        "  - Khaleda Zaheer\n",
+        "  - Tahmina Zerin\n",
+        "  - name: James Coughlan\n",
+        "    orcid: https://orcid.org/0000-0001-5322-7098\n",
+        "  - Shuvashis Saha\n",
+        "  - Elsa Delgado-Angulo\n",
+        "  - Elham Kateeb\n",
+        "date: 07-15-2025\n",
+        "categories: [\"Refugee Oral Health\", \"Global Health\"]\n",
+        "image: pic.jpg\n",
+        "draft: false\n",
+        "format: \n",
+        "  html: \n",
+        "    page-layout: article\n",
+        "---\n",
+        "\n",
+        "\n",
+        "Test\n",
+        "\n",
+        "```{css}\n",
+        "<button type=\"button\" class=\"btn btn-primary\">Default button</button>\n",
+        "```"
+      ],
+      "id": "bb1ca726"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

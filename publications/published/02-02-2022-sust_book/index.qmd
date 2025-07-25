@@ -1,0 +1,34 @@
+---
+title: "Sustainability: The Need to Transform Oral Health Systems"
+description: "Published in: Sustainable Dentistry"
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1007/978-3-031-07999-3_12
+author: 
+  - Brett Duane
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+  - Carlos Quintonez
+  - Bridget Johnston
+  - Julian Fisher
+  - Eleni Pasdeki-Clewer
+  - Paul Ashley 
+Journal: 
+  - "*Sustainable Dentistry (Book)*"
+date: 01-04-2023
+categories: ["Sustainability", "Health Systems", "Dentistry"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: full
+---
+
+[Access via publisher](https://doi.org/10.1007/978-3-031-07999-3_12 "Go to publisher website"){.btn .btn-outline-primary .btn role="button"}
+
+### Abstract
+
+This chapter explores the role of system transformation in the drive towards sustainability. This chapter presents this broad vision of sustainability in dentistry by coupling sustainability with dentistry’s social contract, or the mutual commitments and reciprocal obligations that dentistry shares with society by virtue of being a regulated health profession. Healthcare systems need to be more focussed on efficient, appropriate treatment (based on evidence) to not only become more efficient but also to reduce their overall environmental impact. A number of system characteristics need to be considered from an environmental, fiscal, and social perspective. The chapter views the lens of six building blocks for health systems strengthening; service delivery, health workforce, health information systems, access to essential medicines, financing, and leadership/governance.
+
+Sustainability isn’t about reducing your environmental emissions; it needs a system reconstruct; and all of these building blocks are pivotal in building a sustainable dental system.

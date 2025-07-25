@@ -1,0 +1,45 @@
+---
+title: "Publications"
+listing: 
+  - id: published
+    contents:
+      - "/published/*/index.qmd"
+    fields: [date, title, author, Journal]
+    type: table
+    sort: "date desc" 
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    field-display-names:
+      title: "Paper"
+      date: "Date"
+      author: "Authors"
+    date-format: "short"
+  - id: progress
+    contents: 
+      - "/progress/*/index.qmd"
+    fields: [date, title, author]
+    type: table 
+    sort: "date desc" 
+    date-format: "short"
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    field-display-names:
+      title: "Paper"
+  
+format: 
+  html: 
+    page-layout: full
+    css: table.css
+---
+
+### Academic Publications 
+
+::: {#published}
+:::
+
+### Work In Progress/Other Work
+
+::: {#progress}
+:::

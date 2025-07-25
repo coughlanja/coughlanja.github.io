@@ -1,0 +1,40 @@
+---
+title: "The impact of Brexit on research and development"
+description: "MSc Thesis for Barcelona School of Economics"
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: http://hdl.handle.net/10230/60933
+author: 
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+  - Timothy Hewett
+  - Eduard Pla Farriol
+Journal: 
+  - MSc Specialized Economic Analysis
+date: 07-07-2024
+categories: ["Brexit", "Research and Development"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: full
+---
+
+[Access via publisher](http://hdl.handle.net/10230/60933 "Go to publisher website"){.btn .btn-outline-primary .btn role="button"}
+
+**Programme Directors:**
+
+-   Ada Ferrer i Carbonell
+
+-   Joan Llull
+
+### Abstract
+
+#### English
+
+This paper exploits the natural experiment provided by the 2016 Brexit referendum to examine the effects of increased trade barriers on investment in research and development. We use a synthetic control method to compare research expenditure in the United Kingdom before and after Brexit to artificial controls comprising EU countries and regions. Our findings suggest that Brexit had little effect in the short-term, and we argue a substantial increase in research expenditure from 2020 onwards was driven by investments in the pharmaceutical and medical device sector in response to COVID-19 rather than Brexit. We also find geographic heterogeneity, with regions containing prestigious universities and research centres such as London and East England most resilient to the shock.
+
+#### Catalan
+
+Aquest article utilitza el referèndum sobre el Brexit del 2016 com a experiment natural per examinar els efectes d’unes barreres comercials més estrictes en la inversió en recerca i desenvolupament (R+D). Utilitzem un mètode de control sintètic per comparar la despesa en R+D al Regne Unit abans i després del Brexit amb un control artificial construït a partir de països i regions de la UE. Els resultats suggereixen que el Brexit no ha tingut un impacte significatiu a curt termini. S’observa un increment important en la inversió en recerca a partir del 2020, atribuïble més a la indústria mèdica i farmacèutica a causa de la pandèmia que no pas al Brexit. A més, trobem que aquelles regions amb universitats i centres de recerca prestigiosos mostren una major resiliència davant el xoc.

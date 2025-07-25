@@ -1,6 +1,20 @@
 [
   {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/2025-05-16-spcr-research/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/published/15-07-2025-refugee-brush1/index.html",
+      "/publications/published/21-06-2024-refugee-desc/index.html",
+      "/publications/published/02-02-2022-sust_book/index.html",
+      "/publications/published/01-11-2021-covid-student/index.html",
+      "/publications/published/01-08-2021-env-sust-edu/index.html",
+      "/publications/published/01-07-2020-brexit/index.html",
+      "/publications/progress/07-07-2024-msc-thesis/index.html"
+    ]
   }
 ]

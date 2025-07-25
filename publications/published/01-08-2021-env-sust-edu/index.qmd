@@ -1,0 +1,51 @@
+---
+title: "Embedding environmental sustainability within the modern dental curriculum— Exploring current practice and developing a shared understanding"
+description: "Journal: European Journal of Dental Education"
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1111/eje.12631
+author: 
+  - Brett Duane
+  - Jonathan Dixon
+  - Giwa Ambibola
+  - Clara Aldana
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+  - Daniel Henao
+  - Daniela Timuş
+  - Other co-authors
+  - James Field
+Journal: 
+  - "*European Journal of Dental Education*"
+date: 11-23-2020
+categories: ["Dental Education", "Planetary Health"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: full
+---
+
+[Access via publisher](https://doi.org/10.1111/eje.12631 "Go to publisher website"){.btn .btn-outline-primary .btn role="button"}
+
+### Abstract
+#### Introduction
+
+Evidence concerning the interactions between human health and planetary health has grown extensively in recent years. In turn, the perceived importance of environmental sustainability within higher education is growing at a rapid rate. This paper provides a summary of key elements as they apply to dentistry, and provides an introduction to the reader of an early consensus of how sustainability could be included as part of the dental curriculum.
+
+#### Methods
+
+The consensus opinion within this paper largely centres around discussion at the ADEE sustainability workshop at the annual conference in Berlin (August 2019). In order to help inform discussions at the workshop, a brief scoping questionnaire was circulated to potential participants regarding their understanding and current teaching practices in sustainability. An infographic was designed to help delegates remember the important elements of sustainable dentistry. Delegates discussed the concept of sustainability alongside the infographic, and how they could link these with the Graduating European Dentist (GED) curriculum.
+
+#### Results
+
+The discussions within the workshop largely centred around 4 main themes: Disease prevention and health promotion, Patient education and empowerment, Lean service delivery and Preferential use of strategies with lower environmental impact.
+
+#### Discussion
+
+It is apparent that there is a widespread need for teaching materials relating to environmental sustainability; this includes specific learning outcomes relating to the 4 educational domains of the Graduating European Dentist curriculum, and methods for teaching and assessing these outcomes.
+
+#### Conclusion
+
+This paper reports consensus on the first phase of a pan-European working group on Sustainability in dental education.

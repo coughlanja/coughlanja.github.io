@@ -1,0 +1,43 @@
+---
+title: "About Me"
+format: 
+  html: 
+    page-layout: full
+---
+
+:::: columns
+::: {.column .smaller width="30%"}
+![](images/BSODR ECR Conference-88_websize.jpg){width="300"}
+:::
+
+::: {.column width="30%"}
+### Education
+
+-   **PhD in Health Economics**\
+    *University of Manchester* (2024-2027)
+
+-   **MSc Economics of Public Policy**\
+    *Barcelona School of Economics* (2023-2024)
+
+-   **MSc Public Health (Health Economics)**\
+    *London School of Hygiene and Tropical Medicine* (2019-2020)
+
+-   **Bachelor of Dental Surgery**\
+    *Queen Mary, University of London* (2015-2021)
+:::
+
+
+::: {.column width="30%"}
+### Experience
+
+-   **Pre-Doctoral Clinical Research Fellow**\
+    *University of Manchester* (2022-2024)
+
+-   **General Dental Practitioner**\
+    *National Health Service (NHS)* (2021-2024)
+
+-   **President**\
+    *European Dental Students' Association (EDSA)* (2020-2021)
+:::
+
+::::

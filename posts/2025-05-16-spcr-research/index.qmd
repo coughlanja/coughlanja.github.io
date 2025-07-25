@@ -1,0 +1,46 @@
+---
+title: "Research as a general dentist – an exciting career path"
+description: "In this blog post, I reflects on my experiences as a general dental practitioner engaging in health research, offering insights into the expanding role of academic inquiry within primary dental care."
+author: 
+  - name: James Coughlan
+    url: https://coughlanja.github.io/
+date: 05-16-2025
+categories: ["Research", "Careers", "Primary Care"]
+image: pic1.png
+draft: false
+---
+:::{.center}
+**This blog was first published on the [NIHR School for Primary Care Website](https://www.spcr.nihr.ac.uk/news/blog/research-as-a-general-dentist)**
+:::
+
+Dental research is a small field, and for many dentists may conjure up images of specialists researching niche topics, or scientists developing novel dental materials in a lab. Yet most dental care is provided in primary care, in “high street” dental practices up and down the country, where the challenges and solutions of providing high quality care are a far cry from large teaching hospitals and sterile laboratories.
+
+Until recently, dental research has generally done a poor job of reflecting this, but thankfully there is now a growing interest in carrying out research about and in primary dental care settings and nurturing academic general dentists who can translate their knowledge and experience into relevant, impactful research.
+
+### Getting Started in Research as a GDP
+
+Despite many people getting involved in research at dental school, there is often the perception that research is only something you do as part of a specialty programme, and if you decide not to follow this route then there are no other opportunities. There are now a range of programmes to help get interested general dentists involved in research, such as the [Pre-Doctoral Fellowships](http://www.nihr.ac.uk/nihr-practice-fellowships-round-18-guidance-notes), [Academic Clinical Fellowships in Primary Dental Care](https://www.oriel.nhs.uk/Web/PermaLink/Vacancy/55B36204), and the [NIHR Associate PI scheme](https://www.nihr.ac.uk/career-development/clinical-research-courses-and-support/associate-principal-investigator-scheme). With protected research time, structured research training, project guidance and a clinical salary, these programmes allow academic GDPs to focus on developing their research skills alongside their clinical practice, without worrying about lost income and lack of time. The diagram below shows some of the options depending on your career stage.
+
+![](images/Picture 1.png){fig-align="center"}
+
+Between 2022 and 2023, I was privileged have been awarded a [SPCR Primary Care Clinicians Career Development Fellowship](https://www.spcr.nihr.ac.uk/career-development/funding/primary-care-clinicians-career-progression-fellowships) focussing on the health economics of primary dental care at the University of Manchester, funded by the National Institute for Health and Care Research School for Primary Care Research (NIHR SPCR). This meant that half of my time each week was spent being a practicing GDP in London, and the other half was spent carrying out research. My project investigated how dental charges impact patients financially, and whether they led to catastrophic health expenditure, which is where people spend a large proportion of their available income on healthcare expenditure. The fellowship also gave me the time and budget to take training courses in health economics research methods, to present my work at academic conferences and to develop a strong application for a [funded PhD programme](https://www.spcr.nihr.ac.uk/career-development/doctoral-training-programme-for-primary-care-clinicians), which I have just started in October 2024.
+
+My fellowship was based in the [Health Organisation, Policy and Economics (HOPE) group](https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/nihr-primary-care/health-organisation-policy-economics-hope/) at The University of Manchester, largely because of their expertise in the health economics of primary medical care, while my other and collaborative research culture. I learnt so much from listening to weekly presentations from those carrying out health economic research in general medical practice, which helped me to hone my own dental research ideas, and so many people, both senior academics and early career researchers, generously offered time and feedback on my work and PhD plans.
+
+There are other indirect benefits, especially on work-life balance and job satisfaction - unlike the hectic, highly structured days in practice, your research time is almost entirely decided on by you. You can choose how to distribute your time between training and research, or whether to work from home on some days. Having time to enjoy my morning coffee while reading interesting papers is definitely a treat I very much look forward to!
+
+### Okay, I’m interested, so what now?
+
+If you’ve got this far, I might have persuaded you to consider a career in academic primary dental care. So, how do you get into these fellowships and programmes?
+
+Many of these opportunities are awarded through competitive applications, which means you’ll need to work on an application. These are judged on four main criteria: why you are the right person, why the project is important, why your university and supervisors are the right people to oversee your fellowship, and how your training plan can give you the skills to succeed. Often you will need to write about your previous research experience and output, plan a small research project, propose training and development plan and explain why you want to pursue a career in academic primary dental care.
+
+This is the stage that many get tripped at. You need to be specific about why your research is important to primary dental care, and how it will be carried out. Your potential supervisors can help you with this, but you need to spend time thinking through the details – how will you get access to data, what methods will you use and how the project might lead to a PhD. Many applications now require [public and patient involvement (PPI)](https://www.nihr.ac.uk/ppi-patient-and-public-involvement-resources-applicants-nihr-research-programmes) too. Your project doesn’t need to be perfect, but the more you have thought this through, the greater your chance of success. As well as your supervisors, you can also use the [NIHR Research Support Service](https://www.nihr.ac.uk/support-and-services/research-support-service) to help.
+
+You’ll also need to decide where to apply through. Unlike speciality training applications, with Pre-Docs you apply with a university and a supervisor. Take some time to research potential supervisors - these are the people that will help you navigate the (initially opaque) waters of academia and research. Ideally you want supervisors you work well with and who have some knowledge of either your topic area or the methods you will use. These don’t always have to be people you know; I had never met Matt, one of my supervisors, and simply emailed him asking about the fellowship and proposing my project.
+
+Finally, these applications can take some time, so make sure you plan well in advance. Applications for Pre-Docs open around Christmas each year, with deadlines around March. It’s never too early to begin thinking about topic areas, reading relevant papers and reaching out to potential supervisors. For those who are thinking of applying – just do it! There is so much important research still to be done in primary dental care, and every interesting care, every clinical problem you encounter, every workaround is a potential avenue for valuable research.
+
+Now feels a good time to shout out my amazing supervisors Matt ([Sutton](https://research.manchester.ac.uk/en/persons/matt.sutton), Professor of Health Economics) and Wendy ([Thompson](https://research.manchester.ac.uk/en/persons/wendy.thompson-2), Senior Lecturer in Primary Dental Care) who made my experience at Manchester so hugely rewarding and enjoyable. There are too many other people to thank, but special thanks to [Kath Checkland](https://research.manchester.ac.uk/en/persons/katherine.h.checkland), Rita Chow, [Igor Francetic](https://research.manchester.ac.uk/en/persons/igor.francetic), the whole HOPE team, NIHR SPCR for supporting my research and the numerous people who have kindly given me advice and support. I'm really excited to be back at HOPE to start my PhD.
+
+If anyone has questions or wants more information, you can reach me at james.coughlan\@manchester.ac.uk.

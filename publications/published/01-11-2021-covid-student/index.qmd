@@ -1,0 +1,44 @@
+---
+title: "Impact of COVID-19 on dental education in Europe: The students' perspective"
+description: "Journal: European Journal of Dental Education"
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1111/eje.12736
+author: 
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+  - Daniela Timuş
+  - Tin Crnic
+  - Dora Srdoč
+  - Ciara Halton
+  - Irina F. Dragan
+Journal: 
+  - "*European Journal of Dental Education*"
+date: 12-09-2021
+categories: ["Dental Education", "Covid-19"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: full
+---
+
+[Access via publisher](https://doi.org/10.1111/eje.12736 "Go to publisher website"){.btn .btn-outline-primary .btn role="button"}
+
+### Abstract
+#### Introduction
+
+COVID-19 pandemic impacted dental students and postgraduate residents world-wide, forcing them to rapidly adapt to new forms of teaching and learning. Dental school leaderships needed to ensure the academic continuity, therefore the majority of the in-person actives were transitioned into a virtual setting. The aim of this study was to identify students' perception regarding the measures taken to adapt during the pandemic by different dental schools in the European Region.
+
+#### Materials and Methods
+
+This cross-sectional study utilised a validated 37 questions survey. Ethical approval was obtained from the Trinity College Dublin, Ireland. Using this instrument, the perceptions of the European dental students regarding the impact of COVID-19 on their education and mental health were identified. The questions were divided into categories: standard demographic information; models of education during the COVID-19 pandemic (types of teaching, examination and other educational activities) and support received. The survey was administered through electronic online tools, and all responses remained confidential. The data were processed through quantitative and qualitative analysis.
+
+#### Results
+
+A total of 879 student responses to the survey from 34 countries in the European Region were included in this study. When asked about the time spent on their education, 50% of the participants (n = 435) reported spending less time on their education and 30% (n = 265) reported spending more time. The types of teaching included showed a heterogeneous approach, varying from online simulations to problem solving for the didactic setting, or a hybrid model with group activities for the clinical setting. There were broad splits in satisfaction with the education delivered, with 44% (n = 382) being either satisfied or very satisfied and 31% (n = 279) being either unsatisfied or very unsatisfied. Students were most concerned with their clinical experience and skills.
+
+#### Conclusions
+
+The qualitative and quantitative data compiled in this cross-sectional study enable a direct comparison between different approaches to adapt dental education during the COVID-19 in the European Region. Future studies are recommended that will include compiling perceptions from the staff, faculty and administrators on the transition as well.

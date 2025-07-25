@@ -1,0 +1,43 @@
+---
+title: "Oral health of Rohingya refugees accessing emergency dental care in the refugee camp in Cox’s Bazar, Bangladesh"
+description: "Journal: Community Dentistry and Oral Epidemiology"
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://onlinelibrary.wiley.com/doi/10.1111/cdoe.13050
+author: 
+  - Khaleda Zaheer
+  - Mohammad Jonayed Hossain
+  - Kala Chand Debnath
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+Journal: 
+  - "*Community Dentistry and Oral Epidemiology*"
+date: 06-12-2025
+categories: ["Refugee Oral Health", "Descriptive", "Global Health"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: full
+---
+
+[Access via publisher](https://onlinelibrary.wiley.com/doi/10.1111/cdoe.13050 "Go to publisher website"){.btn .btn-outline-primary .btn role="button"}
+
+### Abstract
+
+#### Objective
+
+Oral health (OH) of refugees is under-researched and most publications are from developed countries despite the majority of refugees hosted in low-middle income countries. Most of the Rohingya refugees in the camps in Bangladesh have no access to dental care. The objective of this study was to report on the OH behaviours and utilisation of an emergency dental service in the camp in Cox's Bazar, Bangladesh.
+
+#### Methods
+
+This study utilised the data from clinical records of Rohingya refugees attending an emergency dental clinic in camp four in Cox's Bazar, Bangladesh from February 2019 to March 2020. Data included education levels, OH practices, tobacco consumption, diagnosis and treatment provided. Descriptive analysis of the data was undertaken.
+
+#### Results
+
+A total of 4111 patients were included, of which 50.1% were female. Education levels were very low, with 75.8% reporting no formal education. Although daily toothbrushing was reported by 64.4%, there was significant variation in the materials used for a dentifrice, with 78.1% using abrasive substances. Tobacco use was high, with 65.7% reporting its use, and of those, 95.4% chewed paan. Pain was the commonly reported symptom (87.1%) and nearly half, 46.9%, reported poor OH. Functional difficulties and problems sleeping were highly prevalent, at 85.3% and 51.6% respectively. A high prevalence of caries was reported, at 79.8%, and a mean number of 2.8 teeth affected. Extraction and temporary restorations were the common treatment modalities, at 52.1% and 23.1% respectively.
+
+#### Conclusions
+
+The Rohingya refugees in the camps in Bangladesh have low education levels, unhealthy oral health practices, high consumption of tobacco and a high prevalence of oral disease. Further research is required to inform the design and delivery of community-based oral health intervention strategies suitable for refugee camps to improve oral health literacy, knowledge and practices.

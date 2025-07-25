@@ -1,0 +1,33 @@
+---
+title: "The impact of Brexit on oral health"
+description: "Journal: British Dental Journal"
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1038/s41415-020-2278-z
+author: 
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+  - Sam Shah
+Journal: 
+  - "*British Dental Journal*"
+date: 11-13-2020
+categories: ["Health Policy", "Dentistry", "Brexit"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: full
+---
+
+[Access via publisher](https://doi.org/10.1038/s41415-020-2278-z "Go to publisher website"){.btn .btn-outline-primary .btn role="button"}
+
+### Abstract
+#### Introduction 
+The United Kingdom (UK) left the European Union (EU) on 31 January 2020. Brexit will impact many sectors of the economy, including the dental sector.
+
+#### Methods and analysis 
+This policy analysis evaluates UK and EU legislation and planning documents, as well as the published literature, to analyse the impact of two scenarios relating to the UK's exit from the EU on the dental sector: a free trade agreement based on the jointly agreed Political Declaration (the 'FTA') and a 'no-deal' scenario.
+
+#### Conclusion 
+An FTA could cause price increases of medicines and medical devices, and cause some disruption to the ability of regulating authorities in this area, while a no-deal would additionally risk shortages of medicines and medical devices as well as more dramatic price increases. In both an FTA and a 'no-deal scenario', with EU law no longer applicable to the UK, more innovative policy in the area of tobacco control could be developed. An FTA could exacerbate existing workforce shortages and would likely cause a reduction in EU research funding, as well as posing issues with data transfers, with these all likely to be more severe under a no-deal scenario.

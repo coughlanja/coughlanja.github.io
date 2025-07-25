@@ -10,7 +10,7 @@ title: "Research"
 
 ### 2024
 
--   **Coughlan, James**; Hewett, Timothy; Pla Farriol, Eduard. [The impact of Brexit on research and development](https://repositori.upf.edu/handle/10230/60933). Published Masters Thesis, UPF e-Repositori. 2024
+-   **Coughlan, J**; Hewett, T; Pla Farriol, E. [The impact of Brexit on research and development](https://repositori.upf.edu/handle/10230/60933). Published Masters Thesis, UPF e-Repositori. 2024
 
 ### 2023
 
@@ -40,12 +40,10 @@ title: "Research"
 
 -   **Coughlan J**, Francetic I, Thompson W, Muirhead V, Sutton M. Forecasting Demand for Unplanned Dental Care: An Evaluation of Machine Learning Models. Oral Presentation at: British Society of Oral and Dental Research ECR Conference 2025; Cardiff, UK
 
+-   **Coughlan J**, Thompson W, Sutton M. The impacts of private dental practice entry on access to NHS dentistry in England. Poster presented at: British Society of Oral and Dental Research Annual Meeting 2024; Newcastle, UK
+
 -   **Coughlan J**, Pold A, Gkekas A, Meheus F, Gierth J, Hoffbauer T, Varenne B, Listl S, Pattamatta M. Cost-effective interventions for oral health: A WHO-CHOICE Analysis for 62 countries. Oral Presentation at: University of Pennsylvania Global Oral Health Forum II 2024; Philadelphia, USA
 
 -   **Coughlan J**, Thompson W, Sutton M. The contribution of dental expenditure to poverty. Poster presented at: Summer Scientific Meeting of the British Association for the Study of Community Dentistry 2023; Cork, Ireland.
 
 -   **Coughlan J**, Hegenauer M, Volkmann Z. Embedding sustainability into oral health systems: a complex systems approach. Poster presented at: World Dental Federation (FDI) Sustainability in Dentistry Summit 2023; Online event.
-
-### Awards
-
--   

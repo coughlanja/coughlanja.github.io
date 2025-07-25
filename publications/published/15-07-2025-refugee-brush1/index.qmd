@@ -1,0 +1,25 @@
+---
+title: "Supervised toothbrushing and silver diamine fluoride application of Rohingya children in the refugee camp in Bangladesh"
+description: "Forthcoming in: International Dental Journal"
+
+author: 
+  - Khaleda Zaheer
+  - Tahmina Zerin
+  - name: "**James Coughlan**"
+    orcid: https://orcid.org/0000-0001-5322-7098
+  - Shuvashis Saha
+  - Elsa Delgado-Angulo
+  - Elham Kateeb
+date: 07-15-2025
+Journal: "*International Dental Journal (Forthcoming)*"
+categories: ["Refugee Oral Health", "Global Health"]
+image: pic.jpg
+draft: false
+format: 
+  html: 
+    page-layout: article
+    
+engine: knitr
+---
+
+*text*
