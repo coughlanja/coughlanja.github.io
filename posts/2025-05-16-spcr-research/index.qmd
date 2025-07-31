@@ -1,6 +1,6 @@
 ---
 title: "Research as a general dentist – an exciting career path"
-description: "In this blog post, I reflects on my experiences as a general dental practitioner engaging in health research, offering insights into the expanding role of academic inquiry within primary dental care."
+description: "This blog post explores my experiences as an NIHR SPCR Pre-Doctoral Fellow, and explores the role of clinical academics in primary dental care research."
 author: 
   - name: James Coughlan
     url: https://coughlanja.github.io/
